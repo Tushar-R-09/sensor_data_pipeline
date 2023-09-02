@@ -1,0 +1,13 @@
+=== Confluent Cloud API key: lsrc-pkmgzo ===
+Environment Configuration
+
+
+API key:
+7B3HMN7LUULTA6ZP
+
+API secret:
+Xhzb+0N/lSU+T60yYUf1gvQ6z+qp2GdybbesQC+WO9jAFE+l8lb/maeLDLyMZh/d
+
+
+Mongo DB configurations :
+mongodb+srv://tusharrohilla70:1234@sensorkafka.dngmycn.mongodb.net/
